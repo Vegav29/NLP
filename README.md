@@ -15,3 +15,11 @@ To create an NLP pipeline capable of classifying the sentiment of product review
   - `Hugging Face Transformers` for leveraging the pre-trained RoBERTa model
   - Custom Sentiment Analysis pipelines for efficient classification
 
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at:
+- **Email:** balajibj2003@gmail.com
